@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mens Jacket",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 18,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/51RgKA1pC1L.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mens Green Tees",
+      "rating": 2,
+      "normalCost": 20,
+      "actualCost": 16,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/71kE75JMKjL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ash grey oversized full sleeve tshirt for men",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/61WswLTIRqL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pitch black mock nexk full sleeve t-shirt",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/61jP8mz3XIL._SX679_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "mens formal classiy look shirt",
+      "rating": 5,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/71OKaQZbj5L._AC_UL480_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "GRECIILOOKS",
+      "rating": 4,
+      "normalCost": 20,
+      "actualCost": 14,
+      "category": "fashion",
+      "subCategory": "mens",
+      "image": "https://m.media-amazon.com/images/I/71DQ6U-OVQL._AC_UL480_QL65_.jpg"
+    }
+  ]
+}
