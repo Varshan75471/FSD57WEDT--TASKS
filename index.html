@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PokeAPI - Pokémon Information</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Pokémon Information</h1>
+        <input type="text" id="pokemonInput" placeholder="Enter Pokémon name or ID" />
+        <button id="fetchPokemon" onclick="fetchPokemon()">Get Pokémon</button>
+        <div id="pokemonInfo" class="pokemon-info">
+            <img id="pokemonImage" src="" alt="Pokémon Image" />
+            <h2 id="pokemonName">Pokémon Name</h2>
+            <p id="pokemonHeight">Height: </p>
+            <p id="pokemonWeight">Weight: </p>
+            <p id="pokemonTypes">Types: </p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
